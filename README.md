@@ -1,0 +1,1 @@
+# aws-cli-empty-and-delete-versioned-s3
